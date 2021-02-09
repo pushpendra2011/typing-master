@@ -1,0 +1,9 @@
+.active-word {
+  color: blue;
+}
+.correct-word {
+  color: green;
+}
+.incorrect-word {
+  color: red;
+}
